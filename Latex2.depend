@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1641415392 source:c:\users\harto\desktop\latex2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winuser.h>
+
+1641550630 source:c:\users\georg\desktop\latex2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winuser.h>
+
+1641951935 source:c:\users\adi\desktop\latex2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winuser.h>
+
+1642003140 source:c:\users\adi\desktop\ip a1s1\proiect-ip-a1s1\auxiliary\testapp\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winuser.h>
+

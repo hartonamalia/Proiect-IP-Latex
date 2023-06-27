@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1641317167 source:f:\codeblocks fisiere\latex2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+
+1641386564 source:c:\users\harto\desktop\latex2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winuser.h>
+
